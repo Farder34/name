@@ -1,0 +1,26 @@
+header{
+	background-color: #696969;
+	color: black;
+	padding: 20px;
+	text-align: center;
+}
+h2{
+	font-size: 30px;
+}
+#rew{
+	font-size: 20px;
+}
+a{
+	color: black;
+}
+#pow{
+	font-size: 10px;
+	text-align: center;
+}
+img{
+	width: 200px;
+}
+main{
+	background-color: #C0C0C0;
+	padding: 20px;
+}
