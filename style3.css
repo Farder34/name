@@ -1,0 +1,11 @@
+footer{
+	background-color: black;
+	color: white;
+	padding: 30px;
+}
+.red h2{
+	font-size: 2rem;
+}
+.red p{
+	font-size: 1rem;
+}
