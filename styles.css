@@ -1,0 +1,8 @@
+#list {
+	background-color: grey;
+	border: 1px solid black;
+	paddind: 10px;
+}
+#list li {
+	color: red;
+}
